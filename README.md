@@ -1,2 +1,2 @@
-# Tree-Visualizator
-A small tree visualizator in Java for a uni project.
+# Tree-Visualizer
+A small tree visualizer in Java for a uni project.
